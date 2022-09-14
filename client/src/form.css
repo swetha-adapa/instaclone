@@ -1,0 +1,15 @@
+
+.main {
+    margin: 100px 190px;
+    border:1px solid black ;
+    width: 500px;
+ } 
+ .input{
+  margin-right:2px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+  padding:5px;
+ }
+ .button{
+  margin-left:100px;
+ }

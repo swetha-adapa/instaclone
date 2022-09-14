@@ -1,0 +1,45 @@
+.body{
+    flex-shrink: 0;
+}
+.nav{
+     margin: 25px 10px; 
+     border: 1px solid black;
+}
+.logo{
+    margin-right:900px;
+}
+.mainData{
+    height: 300px;
+    margin: 10px;
+    margin-right:450px;
+    margin-left:400px;
+    border: 1px solid black;
+    flex-shrink: 14;
+}
+.autor{ 
+    font-weight: bold;  
+}
+.dots{
+    text-align: right;
+    margin-top: -20px;
+}
+.selfie{
+    height:170px;
+     width: 28rem;
+     margin-right:400px;
+     border: 1px solid;
+}
+.hea{
+    margin-right:10px;
+}
+.share{
+    text-align: right;
+}
+.date{
+    margin-top: -30px;
+    text-align: right;
+}
+.disc{
+    margin-top: -20px;
+    font-weight: bold;
+}

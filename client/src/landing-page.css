@@ -1,0 +1,18 @@
+.landing-container{
+    display: flex;
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+}
+.landing-container img {
+    margin-right: 10px;
+    width: 50%;
+    height: 500px;
+}
+.landing-container h2{
+    align-self: center;
+    color: green;
+}
+.pro{
+    align-self: center;
+}
